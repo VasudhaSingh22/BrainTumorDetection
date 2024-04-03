@@ -19,7 +19,7 @@ Brain tumors are a serious medical condition that require accurate and timely di
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies mentioned in the respective notebooks.
 3. Download the pre-trained weights for the CNN models (RESNET50, InceptionV3, EfficientNet, VGG16).
 4. Ensure you have the necessary hardware requirements for running the GAN model.
 
